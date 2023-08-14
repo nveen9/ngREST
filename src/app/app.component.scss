@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+
+.read-table {
+  padding-top: 20px;
+  margin: 0 auto;
+  max-width: 80%;
+
+  mat-form-field {
+    width: 100%;
+  }
+}
